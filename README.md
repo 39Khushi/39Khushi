@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:skhushi392003@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" /></a>
-  <a href="tel:+917990710791" target="blank"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+  <a href="https://wa.me/917990710791" target="blank"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
   <a href="https://github.com/39Khushi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -58,45 +58,9 @@
 
 ---
 
-### 🎓 Education
-
-- **B.Tech in Computer Science** - Bharati Vidyapeeth University (9.02 CGPA) (12/2021-06/2025)
-- **XII CBSE** - Bharati Vidyapeeth School (82%) (06/2019-06/2020)
-- **X CBSE** - Alok Public School (93%) (06/2018-06/2019)
-
----
-
 ### 💼 Professional Experience
 
-- **Web Developer Intern** - Enjay IT (03/2024-05/2024)
-  - Developed a 100% responsive portfolio website using HTML, CSS, JavaScript, and Bootstrap.
-  - Thrived a robust application using PHP for backend CRUD functionalities handling over 10,000 records.
-
-- **Python Developer Intern** - Adwicorp Limited, Hong Kong (03/2024-05/2024)
-  - Thrived mobile applications for Android and iOS platforms, focusing on backend programming using Python.
-
-- **Senior Content Writer** - Scale Down (10/2023-02/2024)
-  - Crafted 100% SEO and SEM-friendly content, enhancing user experience and improving site metrics and visitor retention.
-
----
-
-### 🌟 Projects
-
-- **Secondary Authorization** - [GitHub Link](https://github.com/39Khushi/secondary-authorization-node/tree/main)
-- **Online Voting System** - [GitHub Link](https://github.com/39Khushi/online-voting-system)
-- **Country Dropdown** - [GitHub Link](https://github.com/39Khushi/country-dropdown)
-- **Sales Forecasting** - [Colab Link](https://colab.research.google.com/github/manashpratim/Big-Mart-Sales-Prediction/blob/master/Big_Mart_Sales_Prediction.ipynb)
-- **CRUD Operation** - [GitHub Link](https://github.com/39Khushi/php-mysql-crud-operations)
-- **Portfolio** - [GitHub Link](https://github.com/39Khushi/khushi-portfolio)
-
----
-
-### 🏆 Roles and Responsibilities
-
-- **Coordinator** - Training and Placement Cell, BV(DU)COEP
-- **Resource and Management** - BLOTIC
-- **Creativity Co-Head** - DCSE
-- **Team Member** - RAQS (Dance Club)
+I am an Software Developer Engineer with expertise in AI/ML, full-stack web development, and PHP development. My focus is on designing high-performance solutions with Python, Node.js and PHP particularly optimizing apps for enhanced efficiency and better user performance. I have a proven track record of improving project delivery times and boosting team productivity. My work includes backend developmet by building Restful APIs in Node.js or PHP and also frontend development by building UI screens using HTML, CSS, Javascript, Angular and ReactJs to ensure exceptional user engagement across platforms. I am committed to delivering tailored software solutions with a 100% on-time delivery rate.
 
 ---
 
@@ -105,6 +69,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:skhushi392003@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" /></a>
-  <a href="tel:+917990710791" target="blank"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+  <a href="https://wa.me/917990710791" target="blank"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
   <a href="https://github.com/39Khushi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
