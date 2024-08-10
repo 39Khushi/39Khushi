@@ -1,5 +1,5 @@
 <h1 align="center">Hi Developers 👋, I'm Khushi Singh</h1>
-<h3 align="center">Software Developer Engineer | AI/ML Engineer | Python Developer | Web Developer</h3>
+<h3 align="center">Software Developer Engineer | AI/ML Engineer | Python Developer | Fullstack Web Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
